@@ -1,0 +1,50 @@
+id,product_title_id,manufacturer_id,price,comment
+INTEGER,INTEGER,INTEGER,DOUBLE,CHAR
+1,1,1,10.11,Sweet apple
+2,1,2,5.05,Small apple
+3,2,3,15.0,African Banana
+4,2,4,20.0,Brazilian Banana
+5,3,1,16.2,Ukrainian Orange
+6,3,2,12.0,Italian Orange
+7,4,3,13.0,Clear water
+8,4,4,50.0,Sweet water
+9,5,1,100.0,Orange Juice
+10,5,2,120.0,Banana Juice
+11,6,3,60.0,Coca Cola
+12,6,4,5.5,Pepsi Cola
+13,7,1,12.23,Big carrot
+14,7,2,10.02,Small carrot
+15,8,3,89.0,big potato
+16,8,1,88.99,ukrainian potato
+17,9,4,32.0,Green Cabbage
+18,9,1,33.33,Typical cabbage
+19,10,2,44.44,Yellow tomato
+20,10,3,55.55,Pink tomato
+21,15,4,10.11,blue carp
+22,15,1,5.05,big carp
+23,16,2,15.0,ocean shark
+24,16,3,20.0,white shark
+25,16,4,16.2,orange shark
+26,16,1,12.0,red shark
+27,15,2,13.0,carpik
+28,15,3,50.0,small carp
+29,5,4,100.0,Orange Juice
+30,5,3,120.0,Banana Juice
+31,6,2,60.0,Coca Cola
+32,6,1,5.5,Pepsi Cola
+33,7,4,12.23,Big carrot
+34,7,3,10.02,Small carrot
+35,8,2,89.0,big potato
+36,8,4,88.99,ukrainian potato
+37,9,2,32.0,Green Cabbage
+38,9,3,33.33,Typical cabbage
+39,10,1,44.44,Yellow tomato
+40,10,4,55.55,Pink tomato
+41,1,4,5.5,Sweet apple
+42,1,3,12.23,Russian apple
+43,2,2,10.02,green banana but good
+44,2,1,89.0,african banana
+45,3,4,88.99,italian orange
+46,3,2,32.0,greece orange
+47,4,2,33.33,crystal water
+48,4,1,44.44,soda water

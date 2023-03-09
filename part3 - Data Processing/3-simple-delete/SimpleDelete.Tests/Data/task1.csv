@@ -1,0 +1,5 @@
+id,name
+INTEGER,CHAR
+1,phone
+2,email
+3,skype
